@@ -1,0 +1,46 @@
+Basic Webpage Layout:
+
+#container
+{
+width: 900px;
+}
+
+#header
+{
+height: 50px;
+position: relative;
+background-color: #CC6666 ;
+border-bottom: 2px solid #000000;
+}
+
+#leftnav
+{
+float: left;
+width: 200px;
+height: 400px;
+background-color: #CC6666;
+border-right: 1px dashed #694717;
+}
+
+#rightnav
+{
+float: right;
+width: 120px;
+height: 400px;
+background-color: #CC6666;
+border-left: 1px dashed #694717;
+}
+
+#body
+{
+margin: auto;
+width: 600px;
+padding: 10px 0px 0px 10px;
+}
+
+#footer
+{
+clear: both;
+background-color: #CC6666;
+}
+
